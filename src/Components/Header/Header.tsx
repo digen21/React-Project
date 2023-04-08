@@ -9,7 +9,7 @@ function Header() {
         alt=""
         className="--header-img"
       />
-      <h2 className="--header-title">Header component</h2>
+      <h2 className="--header-title">Create Your Own Meme</h2>
       <h4 className="--project-title">React Project - 1</h4>
     </header>
   );
